@@ -25,7 +25,7 @@
 
 1. 下載 `./dist` 中的 zip 檔。
 
-2. 將 zip 檔傳給你的 agent (如: OpenClaw、NextClaw、nanoclaw ...) 他/她/它 知道該怎麼做。
+2. 將 zip 檔傳給你的 agent (如: [OpenClaw](https://github.com/openclaw/openclaw) & [nanobot](https://github.com/HKUDS/nanobot) & [NextClaw](https://github.com/Peiiii/nextclaw) ...) 他/她/它 知道該怎麼做。
 
 3. 開始一個故事接龍（示例）：
 
